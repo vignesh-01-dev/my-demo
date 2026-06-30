@@ -1,0 +1,17 @@
+{
+  "name": "my-demo-app",
+  "version": "1.0.0",
+  "description": "A small dummy demo application showcasing Python backend and npm script integration.",
+  "main": "src/app.py",
+  "scripts": {
+    "start": "python src/app.py",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "demo",
+    "python",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC"
+}
